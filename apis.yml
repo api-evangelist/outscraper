@@ -9,10 +9,9 @@ position: Consumer
 access: 3rd-Party
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
+  - Business Data
   - Data Scraping
   - Google Maps
-  - Business Data
-  - API
 created: '2025-02-12'
 modified: '2026-03-16'
 url: >-
@@ -26,9 +25,9 @@ apis:
       information, reviews, and other web sources.
     humanURL: https://outscraper.com/
     tags:
+      - Business Data
       - Data Scraping
       - Google Maps
-      - Business Data
     properties:
       - type: Documentation
         url: https://app.outscraper.com/api-docs
