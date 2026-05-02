@@ -1,34 +1,39 @@
 # Outscraper (outscraper)
+
 Outscraper provides data scraping and extraction APIs for Google Maps, business data, reviews, and other web data sources. Filter and export company databases by NAICS codes and other criteria.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/outscraper/refs/heads/main/apis.yml)
+**APIs.json:** [apis.yml](https://raw.githubusercontent.com/api-evangelist/outscraper/refs/heads/main/apis.yml)
 
 ## Scope
 
-- **Type:** Index 
-- **Position:** Consuming 
-- **Access:** 3rd-Party 
+- **Type:** Index
+- **Position:** Consumer
+- **Access:** 3rd-Party
 
-## Tags:
+## Tags
 
- - Data Scraping, Google Maps, Business Data, API
+- Business Data
+- Data Scraping
+- Google Maps
 
 ## Timestamps
 
-- **Created:** 2025-02-12 
-- **Modified:** 2026-03-16 
+- **Created:** 2025-02-12
+- **Modified:** 2026-04-28
 
 ## APIs
 
 ### Outscraper API
+
 Outscraper provides APIs for scraping Google Maps data, business information, reviews, and other web sources.
 
 **Human URL:** [https://outscraper.com/](https://outscraper.com/)
 
+#### Tags
 
-#### Tags:
-
- - Data Scraping, Google Maps, Business Data
+- Business Data
+- Data Scraping
+- Google Maps
 
 #### Properties
 
@@ -48,6 +53,5 @@ Outscraper provides APIs for scraping Google Maps data, business information, re
 
 ## Maintainers
 
-**FN:** Kin Lane
-
-**Email:** kin@apievangelist.com
+- **FN:** Kin Lane
+- **Email:** kin@apievangelist.com
