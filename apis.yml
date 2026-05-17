@@ -31,22 +31,22 @@ apis:
     properties:
       - type: Documentation
         url: https://app.outscraper.com/api-docs
-      - type: Getting Started
+      - type: GettingStarted
         url: https://outscraper.com/google-maps-api/
 common:
   - type: Portal
     url: https://app.outscraper.com/
   - type: Documentation
     url: https://app.outscraper.com/api-docs
-  - type: Sign Up
+  - type: SignUp
     url: https://app.outscraper.com/signup
   - type: Login
     url: https://app.outscraper.com/login
   - type: Pricing
     url: https://outscraper.com/pricing/
-  - type: Terms of Service
+  - type: TermsOfService
     url: https://outscraper.com/terms/
-  - type: Privacy Policy
+  - type: PrivacyPolicy
     url: https://outscraper.com/privacy-policy/
   - type: Website
     url: https://outscraper.com/
