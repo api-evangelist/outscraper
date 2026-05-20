@@ -34,6 +34,10 @@ apis:
       - type: GettingStarted
         url: https://outscraper.com/google-maps-api/
 common:
+  - type: GitHubOrganization
+    url: https://github.com/outscraper
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/outscraper
   - type: Portal
     url: https://app.outscraper.com/
   - type: Documentation
