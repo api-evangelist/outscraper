@@ -54,6 +54,8 @@ common:
     url: https://outscraper.com/privacy-policy/
   - type: Website
     url: https://outscraper.com/
+  - type: LLMsTxt
+    url: https://outscraper.com/llms.txt
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
