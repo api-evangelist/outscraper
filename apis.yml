@@ -42,7 +42,7 @@ common:
     url: https://app.outscraper.com/
   - type: Documentation
     url: https://app.outscraper.com/api-docs
-  - type: SignUp
+  - type: Signup
     url: https://app.outscraper.com/signup
   - type: Login
     url: https://app.outscraper.com/login
@@ -54,7 +54,7 @@ common:
     url: https://outscraper.com/privacy-policy/
   - type: Website
     url: https://outscraper.com/
-  - type: LLMsTxt
+  - type: LlmsText
     url: https://outscraper.com/llms.txt
 maintainers:
   - FN: Kin Lane
