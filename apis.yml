@@ -34,6 +34,8 @@ apis:
       - type: GettingStarted
         url: https://outscraper.com/google-maps-api/
 common:
+  - type: DomainSecurity
+    url: security/outscraper-domain-security.yml
   - type: GitHubOrganization
     url: https://github.com/outscraper
   - type: LinkedIn
@@ -56,6 +58,8 @@ common:
     url: https://outscraper.com/
   - type: LlmsText
     url: https://outscraper.com/llms.txt
+  - url: https://outscraper.com/blog/feed/
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
